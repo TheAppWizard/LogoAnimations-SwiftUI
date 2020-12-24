@@ -9,4 +9,4 @@ This repository contains logo animation made with SwiftUI
 
 ## Github Dark SwiftUI 
 
-![Image of Github Dark Animation](https://github.com/TheAppWizard/LogoAnimations-SwiftUI/blob/main/Output/photoslogo.png)
+![Image of Github Dark Animation](https://github.com/TheAppWizard/LogoAnimations-SwiftUI/blob/main/Output/GithubDark.png)
